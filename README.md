@@ -6,17 +6,14 @@ brew install imagemagick
 brew install graphicsmagick
 ```
 
-***
 Install GM
 ```
 npm install gm
 ```
 
-***
 Run the generator
 ```
 node generator.js
 ```
 
-***
 Files will be created in the 'output' directory
